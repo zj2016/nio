@@ -159,8 +159,8 @@
             
 
     
-参考[并发编程网](http://ifeve.com/overview/)学习，记录笔记！
-#系列文章
+参考[并发编程网](http://ifeve.com/overview/)学习，记录笔记！<br>
+#系列文章<br>
 [Java NIO系列教程（一） Java NIO 概述](http://ifeve.com/overview/)<br>
 [Java NIO系列教程（二） Channel](http://ifeve.com/channels/)<br>
 [Java NIO系列教程（三） Buffer](http://ifeve.com/buffers/)<br>
